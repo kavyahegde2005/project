@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #fdf6f0;
+  color: #4b2e2e;
+  text-align: center;
+}
+h4{
+    margin: 24px 0 12px;
+}
+h4 + img{
+    margin-right: 12px;
+}
+img{
+    width: 200px;
+    vertical-align: top;
+    border-radius: 50px;
+    padding: 10px;
+    margin-bottom: 8px;
+    flex-direction: column;
+}
